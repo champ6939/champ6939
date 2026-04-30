@@ -23,8 +23,8 @@ Independent Developer | AI & iOS Systems Engineer
 ---
 
 ### 📊 GitHub Stats
-![Champ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
+![Champ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=champ6939&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=champ6939&layout=compact&theme=dark)
 
 ### 📫 Connect with me
 - **Personal Portal**: Project CHAMP
