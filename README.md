@@ -43,4 +43,4 @@ Currently exploring the intersection of **On-device AI** and **autonomous surviv
 
 ### 📫 Connect with me
 - **Personal Portal**: Project CHAMP
-- **Slack**: Yekuan Channel
+
