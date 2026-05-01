@@ -42,6 +42,5 @@ Currently exploring the intersection of **On-device AI** and **autonomous surviv
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=champ6939&layout=compact&theme=dark)
 
 ### 📫 Connect with me
-- **Personal Portal**: Project CHAMP
 - **Slack**: Champ
 - **Discord**: [Join Server](https://discord.gg/JdjgY4BdgQ)
