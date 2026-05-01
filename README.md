@@ -14,17 +14,17 @@
 Currently exploring the intersection of **On-device AI** and **autonomous survival logic**. I specialize in leveraging Apple hardware acceleration to build low-latency, high-efficiency applications.
 
 - 🔭 **Current Project**: Aide - An Autonomous Survival Agent integrating Gemma-2B and Metal rendering.
-- 🧠 **Research**: Optimization of offline LLM inference, Metal shader visual effects, and PWS (Public Warning System) interception[cite: 1, 2].
-- 🛠️ **Stacks**: SwiftUI, Metal (SDF Rendering), Core ML, Git[cite: 1, 2].
+- 🧠 **Research**: Optimization of offline LLM inference, Metal shader visual effects, and PWS (Public Warning System) interception.
+- 🛠️ **Stacks**: SwiftUI, Metal (SDF Rendering), Core ML, Git.
 
 ---
 
 ### 🧬 關於我
 目前致力於探索 **行動端 AI (On-device AI)** 與**系統生存邏輯**的結合。擅長利用 Apple 硬體加速性能來建構低功耗、高效率的應用程式。
 
-- 🔭 **目前專案**: **Aide** - 一款整合 Gemma-2B 與 Metal 渲染的自主生存代理人應用[cite: 1, 2]。
-- 🧠 **技術研究**: 離線大型語言模型 (LLM) 推論優化、Metal Shader 視覺特效、PWS 警告攔截技術[cite: 1, 2]。
-- 🛠️ **技術棧**: SwiftUI, Metal (SDF Rendering), Core ML, Git[cite: 1, 2]。
+- 🔭 **目前專案**: **Aide** - 一款整合 Gemma-2B 與 Metal 渲染的自主生存代理人應用。
+- 🧠 **技術研究**: 離線大型語言模型 (LLM) 推論優化、Metal Shader 視覺特效、PWS 警告攔截技術。
+- 🛠️ **技術棧**: SwiftUI, Metal (SDF Rendering), Core ML, Git。
 
 ---
 
