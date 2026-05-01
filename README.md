@@ -13,7 +13,7 @@
 ### 🧬 About Me
 Currently exploring the intersection of **On-device AI** and **autonomous survival logic**. I specialize in leveraging Apple hardware acceleration to build low-latency, high-efficiency applications.
 
-- 🔭 **Current Project**: [Aide](https://github.com/champ6939/Aide) - An Autonomous Survival Agent integrating Gemma-2B and Metal rendering.
+- 🔭 **Current Project**: Aide - An Autonomous Survival Agent integrating Gemma-2B and Metal rendering.
 - 🧠 **Research**: Optimization of offline LLM inference, Metal shader visual effects, and PWS (Public Warning System) interception[cite: 1, 2].
 - 🛠️ **Stacks**: SwiftUI, Metal (SDF Rendering), Core ML, Git[cite: 1, 2].
 
