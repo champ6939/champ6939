@@ -31,9 +31,9 @@ Currently exploring the intersection of **On-device AI** and **autonomous surviv
 ### 🛡️ Featured Work: Aide (Autonomous Survival Agent)
 這是專為極端環境設計的離線 AI 助手：
 
-*   **核心視覺 (Visuals)**：基於 Metal 撰寫的 **Liquid Glass** 流體球體，根據威脅等級動態變換形態[cite: 1].
-*   **極致生存 (Survival)**：設計專屬 **Critical Mode**，在電池極低時切換至 1fps OLED 全黑模式以延長運作時間[cite: 1].
-*   **離線智慧 (Intelligence)**：部屬 **Gemma-2B** 模型至 ANE，實現無網路環境下的生存指導[cite: 1].
+*   **核心視覺 (Visuals)**：基於 Metal 撰寫的 **Liquid Glass** 流體球體，根據威脅等級動態變換形態.
+*   **極致生存 (Survival)**：設計專屬 **Critical Mode**，在電池極低時切換至 1fps OLED 全黑模式以延長運作時間.
+*   **離線智慧 (Intelligence)**：部屬 **Gemma-2B** 模型至 ANE，實現無網路環境下的生存指導.
 
 ---
 
@@ -44,4 +44,4 @@ Currently exploring the intersection of **On-device AI** and **autonomous surviv
 ### 📫 Connect with me
 - **Personal Portal**: Project CHAMP
 - **Slack**: Champ
-- **Discord**: [Join Server](https://discord.gg/JdjgY4BdgQ)[cite: 2]
+- **Discord**: [Join Server](https://discord.gg/JdjgY4BdgQ)
