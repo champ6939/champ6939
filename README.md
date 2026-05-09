@@ -32,12 +32,16 @@ Currently exploring the intersection of **On-device AI** and **autonomous surviv
 
 ---
 
-### Development Metrics
-| Metric | Status |
-| :--- | :--- |
-| **Current Focus** | Swift / Metal / Core ML |
-| **Project Stage** | Active Development |
-| **System Environment** | macOS (Apple Silicon) |
+### GitHub Statistics
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Commits-170-black?style=for-the-badge&logo=github" alt="Commits">
+  <img src="https://img.shields.io/badge/Stars-3-black?style=for-the-badge&logo=github" alt="Stars">
+  <img src="https://img.shields.io/badge/Main%20OS-macOS%20Silicon-black?style=for-the-badge&logo=apple" alt="OS">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tech%20Stack-Swift%20%7C%20Metal%20%7C%20CoreML-blue?style=flat-square" alt="Stack">
+</p>
 
 ---
 
