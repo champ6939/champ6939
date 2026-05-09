@@ -32,15 +32,17 @@ Currently exploring the intersection of **On-device AI** and **autonomous surviv
 
 ---
 
-### GitHub Statistics
+### Programming Languages | 程式語言統計
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=champ6939&theme=2196f3&hide_border=true" alt="Languages Stats" />
+</p>
+
+---
+
+### GitHub Metrics
 <p align="center">
   <img src="https://img.shields.io/badge/Total%20Commits-170-black?style=for-the-badge&logo=github" alt="Commits">
   <img src="https://img.shields.io/badge/Stars-3-black?style=for-the-badge&logo=github" alt="Stars">
-  <img src="https://img.shields.io/badge/Main%20OS-macOS%20Silicon-black?style=for-the-badge&logo=apple" alt="OS">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Tech%20Stack-Swift%20%7C%20Metal%20%7C%20CoreML-blue?style=flat-square" alt="Stack">
 </p>
 
 ---
