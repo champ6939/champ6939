@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Champ 👋</h1>
+  <h1>Hi, I'm Champ </h1>
   <p><strong>Independent Developer | AI & iOS Systems Engineer</strong></p>
 
   <p>
@@ -10,25 +10,25 @@
   </p>
 </div>
 
-### 🧬 About Me
+### About Me
 Currently exploring the intersection of **On-device AI** and **autonomous survival logic**. I specialize in leveraging Apple hardware acceleration to build low-latency, high-efficiency applications.
 
-- 🔭 **Current Project**: Aide - An Autonomous Survival Agent integrating Gemma-2B and Metal rendering.
-- 🧠 **Research**: Optimization of offline LLM inference, Metal shader visual effects, and PWS (Public Warning System) interception.
-- 🛠️ **Stacks**: SwiftUI, Metal (SDF Rendering), Core ML, Git.
+- **Current Project**: Aide - An Autonomous Survival Agent integrating Gemma-2B and Metal rendering.
+- **Research**: Optimization of offline LLM inference, Metal shader visual effects, and PWS (Public Warning System) interception.
+- **Stacks**: SwiftUI, Metal (SDF Rendering), Core ML, Git.
 
 ---
 
-### 🧬 關於我
+### 關於我
 目前致力於探索 **行動端 AI (On-device AI)** 與**系統生存邏輯**的結合。擅長利用 Apple 硬體加速性能來建構低功耗、高效率的應用程式。
 
-- 🔭 **目前專案**: **Aide** - 一款整合 Gemma-2B 與 Metal 渲染的自主生存代理人應用。
-- 🧠 **技術研究**: 離線大型語言模型 (LLM) 推論優化、Metal Shader 視覺特效、PWS 警告攔截技術。
-- 🛠️ **技術棧**: SwiftUI, Metal (SDF Rendering), Core ML, Git。
+- **目前專案**: **Aide** - 一款整合 Gemma-2B 與 Metal 渲染的自主生存代理人應用。
+- **技術研究**: 離線大型語言模型 (LLM) 推論優化、Metal Shader 視覺特效、PWS 警告攔截技術。
+- **技術棧**: SwiftUI, Metal (SDF Rendering), Core ML, Git。
 
 ---
 
-### 🛡️ Featured Work: Aide (Autonomous Survival Agent)
+### Featured Work: Aide (Autonomous Survival Agent)
 這是專為極端環境設計的離線 AI 助手：
 
 *   **核心視覺 (Visuals)**：基於 Metal 撰寫的 **Liquid Glass** 流體球體，根據威脅等級動態變換形態.
@@ -37,10 +37,10 @@ Currently exploring the intersection of **On-device AI** and **autonomous surviv
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 ![Champ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=champ6939&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=champ6939&layout=compact&theme=dark)
 
-### 📫 Connect with me
+### Connect with me
 - **Slack**: Champ
 - **Discord**: [Join Server](https://discord.gg/JdjgY4BdgQ)
