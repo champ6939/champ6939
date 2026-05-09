@@ -32,26 +32,22 @@ Currently exploring the intersection of **On-device AI** and **autonomous surviv
 
 ---
 
-### Programming Languages | 程式語言統計
+### Programming Languages | 程式語言
 <p align="left">
-  <strong>Swift</strong> <br/>
-  <img src="https://img.shields.io/badge/-85%25-F05138?style=flat-square" width="85%"> <br/>
-  <strong>Python</strong> <br/>
-  <img src="https://img.shields.io/badge/-60%25-3776AB?style=flat-square" width="60%"> <br/>
-  <strong>C</strong> <br/>
-  <img src="https://img.shields.io/badge/-45%25-A8B9CC?style=flat-square" width="45%"> <br/>
-  <strong>JavaScript</strong> <br/>
-  <img src="https://img.shields.io/badge/-30%25-F7DF1E?style=flat-square" width="30%"> <br/>
-  <strong>HTML / CSS</strong> <br/>
-  <img src="https://img.shields.io/badge/-25%25-E34F26?style=flat-square" width="25%">
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
 ---
 
 ### GitHub Metrics
-<p align="center">
-  <img src="https://img.shields.io/badge/Total%20Commits-170-black?style=for-the-badge&logo=github" alt="Commits">
-  <img src="https://img.shields.io/badge/Stars-3-black?style=for-the-badge&logo=github" alt="Stars">
+<p align="left">
+  <img src="https://img.shields.io/badge/Commits-170-black?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Stars-3-black?style=flat-square&logo=github" />
 </p>
 
 ---
