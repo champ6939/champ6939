@@ -34,7 +34,7 @@ Currently exploring the intersection of **On-device AI** and **autonomous surviv
 
 ### Programming Languages | 程式語言統計
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=champ939&theme=2196f3&hide_border=true" alt="Languages Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=champ6939&theme=2196f3&hide_border=true" alt="Languages Stats" />
 </p>
 
 ---
