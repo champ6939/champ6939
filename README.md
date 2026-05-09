@@ -32,7 +32,7 @@ Currently exploring the intersection of **On-device AI** and **autonomous surviv
 
 ---
 
-### Programming LanguagesＩＵse| 我用的程式語言
+### Programming Languages| 程式語言
 <p align="left">
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
