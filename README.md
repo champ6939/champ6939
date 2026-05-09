@@ -28,19 +28,15 @@ Currently exploring the intersection of **On-device AI** and **autonomous surviv
 
 * **Visuals**: 基於 Metal 撰寫的 Liquid Glass 流體球體，根據威脅等級動態變換形態。
 * **Survival**: 設計專屬 Critical Mode，在電池極低時切換至 1fps OLED 全黑模式以延長運作時間。
-* **Intelligence**: 部署 Gemma-2B 模型至 ANE，實現無網路環境下的生存指導。
+* **Intelligence**: 部署 Gemma-2B 模型至 ANE (Apple Neural Engine)，實現無網路環境下的生存指導。
 
 ---
 
 ### GitHub Statistics
 <p align="center">
-  <a href="https://github.com/champ6939">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=champ6939&show_icons=true&theme=dark&include_all_commits=true" alt="Champ's GitHub Stats" />
-  </a>
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=champ6939&show_icons=true&theme=dark&include_all_commits=true&v=509" alt="Champ's GitHub Stats" />
   <br/><br/>
-  <a href="https://github.com/champ6939">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=champ6939&layout=compact&theme=dark&hide=html,css" alt="Top Langs" />
-  </a>
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=champ6939&layout=compact&theme=dark&hide=html,css&v=509" alt="Top Langs" />
 </p>
 
 ---
