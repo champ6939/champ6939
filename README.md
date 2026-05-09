@@ -33,8 +33,17 @@ Currently exploring the intersection of **On-device AI** and **autonomous surviv
 ---
 
 ### Programming Languages | 程式語言統計
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=champ6939&theme=2196f3&hide_border=true" alt="Languages Stats" />
+<p align="left">
+  <strong>Swift</strong> <br/>
+  <img src="https://img.shields.io/badge/-85%25-F05138?style=flat-square" width="85%"> <br/>
+  <strong>Python</strong> <br/>
+  <img src="https://img.shields.io/badge/-60%25-3776AB?style=flat-square" width="60%"> <br/>
+  <strong>C</strong> <br/>
+  <img src="https://img.shields.io/badge/-45%25-A8B9CC?style=flat-square" width="45%"> <br/>
+  <strong>JavaScript</strong> <br/>
+  <img src="https://img.shields.io/badge/-30%25-F7DF1E?style=flat-square" width="30%"> <br/>
+  <strong>HTML / CSS</strong> <br/>
+  <img src="https://img.shields.io/badge/-25%25-E34F26?style=flat-square" width="25%">
 </p>
 
 ---
