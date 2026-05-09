@@ -32,12 +32,12 @@ Currently exploring the intersection of **On-device AI** and **autonomous surviv
 
 ---
 
-### GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=champ6939&show_icons=true&theme=dark&include_all_commits=true&v=509" alt="Champ's GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=champ6939&layout=compact&theme=dark&hide=html,css&v=509" alt="Top Langs" />
-</p>
+### Development Metrics
+| Metric | Status |
+| :--- | :--- |
+| **Current Focus** | Swift / Metal / Core ML |
+| **Project Stage** | Active Development |
+| **System Environment** | macOS (Apple Silicon) |
 
 ---
 
